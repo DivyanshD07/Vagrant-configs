@@ -1,9 +1,0 @@
-./centos/.vagrant
-# Ignore Vagrant files
-
-./my-vms/.vagrant
-
-
-./ubuntu/.vagrant
-
-.gitignore
